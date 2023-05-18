@@ -32,4 +32,3 @@ The main DAG file is `etl.py`, which defines the workflow and tasks for the ETL 
 - Task 2: Data Transformation
 - Task 3: Data Loading to GCS
 - Task 4: Load to BigQuery
-![image](https://github.com/thanatkat/ETL-Simple/assets/124798930/d4cfdefa-3d17-4e08-b81f-4216aae24292)
